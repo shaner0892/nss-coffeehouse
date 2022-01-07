@@ -1,0 +1,14 @@
+.shop {
+    flex-basis: 25%%;
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center; /* Center align the text in the boxes */
+    font-size: 20px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; /* Evenly space the child elements */
+}
